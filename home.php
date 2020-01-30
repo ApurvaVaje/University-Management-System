@@ -19,11 +19,11 @@
 			</div>
 			<div class="rightmenu">
 				<ul>
-					<li id='firstlist'><a href="/PHP files/bg.php"> HOME </a></li>
-					<li><a href="/PHP files/academics.php"> Academics </a></li>
-					<li><a href="/PHP files/about_us.php"> About Us </a></li>
-					<li><a href="/PHP files/departments.php"> Departments </a></li>
-					<li><a href="/PHP files/contact.php"> Contact Us </a></li>
+					<li id='firstlist'><a href="/bg.php"> HOME </a></li>
+					<li><a href="/academics.php"> Academics </a></li>
+					<li><a href="/about_us.php"> About Us </a></li>
+					<li><a href="/departments.php"> Departments </a></li>
+					<li><a href="/contact.php"> Contact Us </a></li>
 				</ul>
 				
 			</div>
