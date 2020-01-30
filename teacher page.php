@@ -13,9 +13,9 @@
  	<span class="user-name">Teacher</span>
  </div>
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="/PHP files/teacher_register.php">Teacher Register</a>
+  <a href="/teacher_register.php">Teacher Register</a>
   <a href="#">Course Register</a>
-  <a href="/PHP files/bg.php">Log-out</a>
+  <a href="/bg.php">Log-out</a>
 </div>
 
 <nav class="topnav">
