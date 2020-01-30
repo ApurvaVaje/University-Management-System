@@ -13,10 +13,10 @@
  	<span class="user-name">Staff</span>
  </div>
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="/PHP files/staff_register.php">Staff Register</a>
+  <a href="/staff_register.php">Staff Register</a>
   <a href="#">Add Staff</a>
   <a href="#">Add Teachers</a>
-  <a href="/PHP files/bg.php">Log-out</a>
+  <a href="/bg.php">Log-out</a>
 </div>
 
 <nav class="topnav">
