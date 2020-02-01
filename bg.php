@@ -94,7 +94,7 @@
 			</div>
 			<a href="#">Forget password?</a><br><br>
             <p>login with your facebook or twitter accounts</p>
-			<a href="#" class="fb btn">
+			<a href="https://en-gb.facebook.com/login/" class="fb btn">
           <i class="fa fa-facebook fa-fw"></i> Login with Facebook
         </a>
         <a href="#" class="google btn">
