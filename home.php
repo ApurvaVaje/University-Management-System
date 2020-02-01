@@ -29,7 +29,7 @@
 			</div>
 		</div>
 		<div class="text">
-			<h4> IDEATE ... INNOVATE ... IMPLEMENT ... </h4>
+			<h4> AFFILIATED TO UNIVERSITY OF MUMBAI </h4>
 			<h1> WELCOME TO V.J.T.I. </h1>
 			<h3> Kindly login here...!!! </h3> 
 			<button id="buttonone"> Student login </button>
